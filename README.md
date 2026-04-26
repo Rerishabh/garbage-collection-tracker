@@ -26,3 +26,10 @@ A smart web-based system to track garbage pickups and send timely reminders.
 ```bash
 pip install -r requirements.txt
 python app.py
+
+
+## 👨‍💻 Author
+
+**Rishabh**
+
+- GitHub: https://github.com/Rerishabh
